@@ -37,7 +37,7 @@ I am proficient in **Python**, specializing in **deep learning** frameworks like
 ## Connect with Me
 
 - Kaggle: [SandyBikundia13](https://www.kaggle.com/SandyBikundia13)
-- Mail: sandybikundia13@gmail.com
+- Mail: sandybikundia1312@gmail.com
 
 ---
 
