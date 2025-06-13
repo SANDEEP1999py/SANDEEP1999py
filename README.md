@@ -24,19 +24,19 @@ I am proficient in **Python**, specializing in **deep learning** frameworks like
 
 ---
 
-## My Journey
+## 🚀 My Journey
 
-- 💼  **Transitioning to Data Science** from an extensive background in automotive AI solutions.
-- 🔧  **Worked in the commercial vehicle industry**, building AI-based models to optimize vehicle performance.
-- 🎓  **Master’s degree in Power Electronics & Drives System** from **MNIT Jaipur**.
-- 📈  Currently developing advanced **deep learning models** and working on projects related to predictive analytics.
+- 💼 Transitioned into **Data Science** with a strong foundation in automotive AI and system optimization.
+- 🔧 Worked in the **commercial vehicle industry**, developing AI-powered solutions for **vehicle performance** and **image processing** tasks.
+- 🎓 Earned a **Master’s degree in Power Electronics & Drives** from **MNIT Jaipur, Rajasthan**.
+- 🎓 Completed **Bachelor’s in Electrical & Electronics Engineering** from **MBM Jodhpur, Rajasthan**.
+- 📈 Currently focused on building advanced **deep learning models** and exploring **predictive analytics** use cases in real-world applications.
 
 ---
 
 ## Connect with Me
 
-- GitHub: [@yourusername](https://github.com/SANDEEP1999py)
-- Kaggle: [Kaggle Profile](https://www.kaggle.com/SandyBikundia13)
+- Kaggle: [SandyBikundia13](https://www.kaggle.com/SandyBikundia13)
 
 ---
 
